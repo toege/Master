@@ -1,0 +1,31 @@
+11111
+Big FT 10
+1 3
+21 Squat
+21 Push Press
+15 Squat
+15 Push Press
+9 Squat
+9 Push Press
+
+11111
+Master Thesis FT 50
+5 14
+1 Deadlift
+2 Squat
+3 Power Clean
+4 Snatch
+5 Strict Press
+2 Deadlift
+3 Squat
+4 Power Clean
+5 Snatch
+5 Over Head Squat
+3 Deadlift
+4 Squat
+5 Power Clean
+5 Snatch
+
+11111
+1 FT 1
+1 0
